@@ -7,3 +7,7 @@ Se va a utilizar un microcontrolador Raspberry Pi Pico y otro Arduino Nano 33 BL
 
 Los datasets se recogerán y volcarán sobre la herramienta web Edge Impulse.(https://studio.edgeimpulse.com/studio/108222)
 Se desarrollará el código usando Python (o MicroPython si fuera necesario).
+
+El dataframe en formato csv contiene la información del dataset para arrancar con la fase de preprocesado de datos.
+
+El fichero zip contiene los datos en bruto, una vez obtenidas las señales correspondientes a todas las muestras recogidas a través del prototipo.
